@@ -1,4 +1,5 @@
 /*Rock Paper and Scissor*/
+/*DEVELOPED in UBUNTU*/
 #include<time.h>
 #include<stdio.h>
 #include<stdlib.h>
